@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T15:07:14.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.5" etag="YXPHgiSmK4-Nkn_CQ0RJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T15:44:37.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qfcY34AEPL777AhIvKdG" version="21.6.5" type="github">
   <diagram name="Page-1" id="PnElzjejNxqwQn6Dhv8l">
-    <mxGraphModel>
+    <mxGraphModel dx="1400" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;YouTube&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="505" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-11" target="VGdfDZddJh0PTGhAuUYR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-11" value="&lt;b&gt;My App&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="255" y="30" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-13" value="used open API (upload video, create playlist, etc.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="110" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-33" target="VGdfDZddJh0PTGhAuUYR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-43" value="Give access to creators" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VGdfDZddJh0PTGhAuUYR-42">
+          <mxGeometry x="0.0356" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-33" value="owner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-34" target="VGdfDZddJh0PTGhAuUYR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-39" value="create and &lt;br&gt;upload a video" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VGdfDZddJh0PTGhAuUYR-38">
+          <mxGeometry x="-0.193" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-34" value="creator" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-36" value="creator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-40" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="375" y="290" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=50;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-41" target="VGdfDZddJh0PTGhAuUYR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-47" value="Reviews it &lt;br&gt;and approve it&lt;br&gt;&amp;nbsp;to upload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VGdfDZddJh0PTGhAuUYR-46">
+          <mxGeometry x="0.1623" y="-3" relative="1" as="geometry">
+            <mxPoint x="71" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-41" value="owner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-44" target="VGdfDZddJh0PTGhAuUYR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-44" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="375" y="370" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="387.25" y="400" width="25.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGdfDZddJh0PTGhAuUYR-31" target="VGdfDZddJh0PTGhAuUYR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-50" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;YouTube&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-52" value="using open api video gets uploaded to youtube" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VGdfDZddJh0PTGhAuUYR-53" value="&lt;font style=&quot;font-weight: bold; font-size: 14px;&quot;&gt;Motives&lt;/font&gt;&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;First do the brakeforce approach&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Include open source Authentication like, Keycloak to manager roles&lt;/li&gt;&lt;li style=&quot;&quot;&gt;plan every day on small features&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Create sprint plans and take time to create this beautifull project&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Main Goals:&lt;br&gt;&lt;ol&gt;&lt;li&gt;First create only services and test it with all scenarioes&lt;/li&gt;&lt;li&gt;Create ux and ui&lt;/li&gt;&lt;li&gt;mobile (long story&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Tech Stack&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; DB -&amp;gt; postgress, redis, graphql&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Flask or Fast API&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; React for frontend&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; React native for mobile.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="570" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
